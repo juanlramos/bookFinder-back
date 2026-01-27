@@ -1,0 +1,12 @@
+node_modules/
+
+# TypeScript Build
+dist/
+build/
+
+# Logs and system files
+*.log
+.DS_Store
+coverage/
+
+.env
