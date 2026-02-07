@@ -44,7 +44,7 @@ export class GeminiService {
         O usuário busca livros de FICÇÃO com as seguintes características: ${tagsString}.
         
         Recomende 5 livros que se encaixem nessas tags.
-        certifique-se de que os livros existem, caso não existam, não precisa retornar!
+        certifique-se de que os livros existeam, caso não existam, apenas descarte!
         Retorne ESTRITAMENTE um array de objetos JSON.
         
         Siga este formato exato para cada livro:
